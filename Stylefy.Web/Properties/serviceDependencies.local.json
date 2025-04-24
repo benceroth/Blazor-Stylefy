@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "identityapp1": {
+      "connectionInfo": "App registration: Stylefy, Tenant: **** (***** - Microsoft Entra ID)",
+      "type": "identityapp.default"
+    }
+  }
+}
